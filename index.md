@@ -3,5 +3,6 @@
   
 Hello World!
 
-Contact: <emailto>arash.ced@protonmail.com
+Contact: <a href="mailto:arash.ced@protonmail.com">arash.ced</a>
+
 </html>
